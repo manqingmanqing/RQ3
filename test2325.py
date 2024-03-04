@@ -208,7 +208,7 @@ def usercheck(username,reponame,notexistpath):
         sys.exit()
     return True
 
-token = "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"
+token = "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"
 exsitllist = []
 notexistpath = "Notexist/2325.csv"
 rootpath = "datafile1/2325/"
