@@ -65,7 +65,7 @@ import time
 import sys
 
 import os
-cmd = 'curl -s --retry 3 --retry-delay 5 -u xushengyu149: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 '
+cmd = 'curl -s --retry 3 --retry-delay 5 -u manqingmanqing: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 '
 
 # Define your GraphQL query
 query = """
